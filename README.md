@@ -12,3 +12,5 @@ fputs($f, $count);
 fclose($f);
 echo "$count"; // вывод значения счётчика
 ?>
+
+# file " stat.txt"
